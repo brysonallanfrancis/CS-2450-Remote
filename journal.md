@@ -1,0 +1,1 @@
+Date: 1/19/25 - Subject: Remote Repo Completed! I had problems with getting the remote repo up in class since I was helping a friend get his git set up. I forgot that git stopped doing password authentication for git so I had to genereate a Personal Access Token. Finally got it working though!
